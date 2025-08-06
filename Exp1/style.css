@@ -1,0 +1,19 @@
+.Bank_Interface{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 5vh;
+    
+}
+
+.body{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px ;
+}
+
+.Gender{
+    font-weight: bold;
+}
+.Course{
+    font-weight: bold;
+}
